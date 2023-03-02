@@ -1,0 +1,12 @@
+#pageNotFound {
+  text-align: left;
+}
+
+#pageNotFound a {
+  padding-left: 0;
+  text-transform: none;
+}
+
+#pageNotFound a:hover {
+  color: white;
+}

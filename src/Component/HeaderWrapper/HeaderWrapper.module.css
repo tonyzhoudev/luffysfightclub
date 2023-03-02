@@ -7,28 +7,17 @@
 }
 
 #header a {
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 1px;
   font-size: 13px;
-  line-height: 1.6em;
-  display: block;
-  padding: 0.3em;
-  color: #ccc;
-  text-decoration: none;
 }
 
 #header li:first-child a {
   font-size: 16px;
 }
 
-#header a:visited {
-  color: #ccc;
-}
-
 #header a:hover {
   color: white;
 }
+
 
 @media only screen and (max-width: 800px) {
   #headerWrapper {
